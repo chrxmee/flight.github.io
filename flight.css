@@ -111,7 +111,7 @@
 }
 
 .xbox .back, .xbox .start {
-    background: url(start-select.png);
+    background: url(flightstartselect.png);
     width: 33px;
     height: 33px;
     opacity: 0;
@@ -185,7 +185,7 @@
 
 .xbox .stick {
     position: absolute;
-    background: url(stick.png);
+    background: url(flightstick.png);
     background-position: -85px 0;
     height: 83px;
     width: 83px;
@@ -214,7 +214,7 @@
 }
 
 .xbox .face {
-    background: url(dpad.png);
+    background: url(flightdpad.png);
     position: absolute;
     opacity: 0;
 }
